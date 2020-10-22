@@ -1,6 +1,7 @@
-.container{
+body{
 
-    background-color: aquamarine;
+    background-color:lightblue
+    ;
 }
 
 h5 {
@@ -10,12 +11,33 @@ h5 {
 
 .card{
         margin-top: 12%;
-
-
+        width: 600px;
+    
 }
 
 .btn{
 
 width: 25%;
 line-height: 50px;
+}
+
+#aboutme{
+
+   color: aquamarine;
+}
+
+.card-body{
+
+        background-color:black;
+}
+.card-img{
+
+padding: 5px;
+margin-right: 59px;
+
+}
+
+.card-mb-3{
+     
+
 }
