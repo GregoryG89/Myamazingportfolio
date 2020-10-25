@@ -1,6 +1,11 @@
 body{
     background-color: #DDDDDD;
- 
+   
+}
+
+h1{
+
+        color:#808080;
 }
 
 h5 {
@@ -53,18 +58,27 @@ margin-right: 59px;
 }
 
 .container-small {
-    float: left;
-    width: 35%;
+
+    width: 28%;
      height: 68% ;          
     margin-left: 32px;
-    }
+
+}
 
 
      .img-thumbnail{
             float:left;
-            margin: 5px;
+            margin: 0px 10px 0px 0px;
+            padding: 0px;
+            width: 200px;
+            box-shadow: 8px 5px  #888888;
      }
      #indexP{
     
          font-size: 18px;
+     }
+
+     .labelcss{
+
+        color:#808080
      }
