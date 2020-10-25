@@ -1,7 +1,6 @@
 body{
-
-    background-color:lightblue
-    ;
+    background-color: #DDDDDD;
+ 
 }
 
 h5 {
@@ -10,8 +9,8 @@ h5 {
 }
 
 .card{
-        margin-top: 12%;
-        width: 600px;
+        margin-top: 8%;
+        margin-left: 3%;
     
 }
 
@@ -28,7 +27,7 @@ line-height: 50px;
 
 .card-body{
 
-        background-color:black;
+        background-color:#C0D6E4;
 }
 .card-img{
 
@@ -39,9 +38,10 @@ margin-right: 59px;
 
 .container{
 
-        
-    background-color: lightskyblue;
-
+    background-color:#C0D6E4 ;
+ 
+    margin-top: 120px;
+    width: 100%;;
 
 }
 
@@ -51,3 +51,20 @@ margin-right: 59px;
 
 
 }
+
+.container-small {
+    float: left;
+    width: 35%;
+     height: 68% ;          
+    margin-left: 32px;
+    }
+
+
+     .img-thumbnail{
+            float:left;
+            margin: 5px;
+     }
+     #indexP{
+    
+         font-size: 18px;
+     }
